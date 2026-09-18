@@ -43,4 +43,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Tushar-1208-cyber/Leetcode-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## String
+|  |
+| ------- |
+| [0071-simplify-path](https://github.com/Tushar-1208-cyber/Leetcode-Solutions/tree/master/0071-simplify-path) |
+## Stack
+|  |
+| ------- |
+| [0071-simplify-path](https://github.com/Tushar-1208-cyber/Leetcode-Solutions/tree/master/0071-simplify-path) |
 <!---LeetCode Topics End-->
