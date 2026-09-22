@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Tushar-1208-cyber/Leetcode-Solutions/tree/master/0049-group-anagrams) |
 | [0697-degree-of-an-array](https://github.com/Tushar-1208-cyber/Leetcode-Solutions/tree/master/0697-degree-of-an-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Tushar-1208-cyber/Leetcode-Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Ternary Search
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Tushar-1208-cyber/Leetcode-Solutions/tree/master/0049-group-anagrams) |
 | [0697-degree-of-an-array](https://github.com/Tushar-1208-cyber/Leetcode-Solutions/tree/master/0697-degree-of-an-array) |
 ## Tree
 |  |
@@ -47,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0006-zigzag-conversion](https://github.com/Tushar-1208-cyber/Leetcode-Solutions/tree/master/0006-zigzag-conversion) |
+| [0049-group-anagrams](https://github.com/Tushar-1208-cyber/Leetcode-Solutions/tree/master/0049-group-anagrams) |
 | [0071-simplify-path](https://github.com/Tushar-1208-cyber/Leetcode-Solutions/tree/master/0071-simplify-path) |
 | [0151-reverse-words-in-a-string](https://github.com/Tushar-1208-cyber/Leetcode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 ## Stack
@@ -57,4 +60,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/Tushar-1208-cyber/Leetcode-Solutions/tree/master/0151-reverse-words-in-a-string) |
+## Sorting
+|  |
+| ------- |
+| [0049-group-anagrams](https://github.com/Tushar-1208-cyber/Leetcode-Solutions/tree/master/0049-group-anagrams) |
 <!---LeetCode Topics End-->
