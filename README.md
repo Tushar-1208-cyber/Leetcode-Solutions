@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/Tushar-1208-cyber/Leetcode-Solutions/tree/master/0049-group-anagrams) |
 | [0347-top-k-frequent-elements](https://github.com/Tushar-1208-cyber/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
+| [0455-assign-cookies](https://github.com/Tushar-1208-cyber/Leetcode-Solutions/tree/master/0455-assign-cookies) |
 | [0697-degree-of-an-array](https://github.com/Tushar-1208-cyber/Leetcode-Solutions/tree/master/0697-degree-of-an-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Tushar-1208-cyber/Leetcode-Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Ternary Search
@@ -62,11 +63,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/Tushar-1208-cyber/Leetcode-Solutions/tree/master/0151-reverse-words-in-a-string) |
+| [0455-assign-cookies](https://github.com/Tushar-1208-cyber/Leetcode-Solutions/tree/master/0455-assign-cookies) |
 ## Sorting
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Tushar-1208-cyber/Leetcode-Solutions/tree/master/0049-group-anagrams) |
 | [0347-top-k-frequent-elements](https://github.com/Tushar-1208-cyber/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
+| [0455-assign-cookies](https://github.com/Tushar-1208-cyber/Leetcode-Solutions/tree/master/0455-assign-cookies) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -87,4 +90,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Tushar-1208-cyber/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
+## Greedy
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/Tushar-1208-cyber/Leetcode-Solutions/tree/master/0455-assign-cookies) |
+## Quicksort
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/Tushar-1208-cyber/Leetcode-Solutions/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
