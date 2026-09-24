@@ -109,4 +109,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Tushar-1208-cyber/Leetcode-Solutions/tree/master/0036-valid-sudoku) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/Tushar-1208-cyber/Leetcode-Solutions/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
