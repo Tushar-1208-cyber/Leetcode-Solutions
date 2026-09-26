@@ -117,4 +117,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0584-find-customer-referee](https://github.com/Tushar-1208-cyber/Leetcode-Solutions/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/Tushar-1208-cyber/Leetcode-Solutions/tree/master/0595-big-countries) |
 | [1757-recyclable-and-low-fat-products](https://github.com/Tushar-1208-cyber/Leetcode-Solutions/tree/master/1757-recyclable-and-low-fat-products) |
+| [1907-count-salary-categories](https://github.com/Tushar-1208-cyber/Leetcode-Solutions/tree/master/1907-count-salary-categories) |
 <!---LeetCode Topics End-->
