@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/Tushar-1208-cyber/Leetcode-Solutions/tree/master/1141-user-activity-for-the-past-30-days-i) |
 | [1667-fix-names-in-a-table](https://github.com/Tushar-1208-cyber/Leetcode-Solutions/tree/master/1667-fix-names-in-a-table) |
 | [1683-invalid-tweets](https://github.com/Tushar-1208-cyber/Leetcode-Solutions/tree/master/1683-invalid-tweets) |
+| [1729-find-followers-count](https://github.com/Tushar-1208-cyber/Leetcode-Solutions/tree/master/1729-find-followers-count) |
 | [1757-recyclable-and-low-fat-products](https://github.com/Tushar-1208-cyber/Leetcode-Solutions/tree/master/1757-recyclable-and-low-fat-products) |
 | [1907-count-salary-categories](https://github.com/Tushar-1208-cyber/Leetcode-Solutions/tree/master/1907-count-salary-categories) |
 <!---LeetCode Topics End-->
