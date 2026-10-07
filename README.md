@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0697-degree-of-an-array](https://github.com/Tushar-1208-cyber/Leetcode-Solutions/tree/master/0697-degree-of-an-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Tushar-1208-cyber/Leetcode-Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Tushar-1208-cyber/Leetcode-Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1929-concatenation-of-array](https://github.com/Tushar-1208-cyber/Leetcode-Solutions/tree/master/1929-concatenation-of-array) |
 ## Ternary Search
 |  |
 | ------- |
@@ -127,4 +128,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1729-find-followers-count](https://github.com/Tushar-1208-cyber/Leetcode-Solutions/tree/master/1729-find-followers-count) |
 | [1757-recyclable-and-low-fat-products](https://github.com/Tushar-1208-cyber/Leetcode-Solutions/tree/master/1757-recyclable-and-low-fat-products) |
 | [1907-count-salary-categories](https://github.com/Tushar-1208-cyber/Leetcode-Solutions/tree/master/1907-count-salary-categories) |
+## Simulation
+|  |
+| ------- |
+| [1929-concatenation-of-array](https://github.com/Tushar-1208-cyber/Leetcode-Solutions/tree/master/1929-concatenation-of-array) |
 <!---LeetCode Topics End-->
