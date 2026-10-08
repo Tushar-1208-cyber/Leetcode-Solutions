@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0697-degree-of-an-array](https://github.com/Tushar-1208-cyber/Leetcode-Solutions/tree/master/0697-degree-of-an-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Tushar-1208-cyber/Leetcode-Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Tushar-1208-cyber/Leetcode-Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Tushar-1208-cyber/Leetcode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1929-concatenation-of-array](https://github.com/Tushar-1208-cyber/Leetcode-Solutions/tree/master/1929-concatenation-of-array) |
 ## Ternary Search
 |  |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Tushar-1208-cyber/Leetcode-Solutions/tree/master/0049-group-anagrams) |
 | [0347-top-k-frequent-elements](https://github.com/Tushar-1208-cyber/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0697-degree-of-an-array](https://github.com/Tushar-1208-cyber/Leetcode-Solutions/tree/master/0697-degree-of-an-array) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Tushar-1208-cyber/Leetcode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Tree
 |  |
 | ------- |
@@ -78,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Tushar-1208-cyber/Leetcode-Solutions/tree/master/0049-group-anagrams) |
 | [0347-top-k-frequent-elements](https://github.com/Tushar-1208-cyber/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0455-assign-cookies](https://github.com/Tushar-1208-cyber/Leetcode-Solutions/tree/master/0455-assign-cookies) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Tushar-1208-cyber/Leetcode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -132,4 +135,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1929-concatenation-of-array](https://github.com/Tushar-1208-cyber/Leetcode-Solutions/tree/master/1929-concatenation-of-array) |
+## Counting Sort
+|  |
+| ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Tushar-1208-cyber/Leetcode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 <!---LeetCode Topics End-->
