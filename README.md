@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/Tushar-1208-cyber/Leetcode-Solutions/tree/master/0367-valid-perfect-square) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Tushar-1208-cyber/Leetcode-Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1512-number-of-good-pairs](https://github.com/Tushar-1208-cyber/Leetcode-Solutions/tree/master/1512-number-of-good-pairs) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/Tushar-1208-cyber/Leetcode-Solutions/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Binary Search
 |  |
 | ------- |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/Tushar-1208-cyber/Leetcode-Solutions/tree/master/0455-assign-cookies) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/Tushar-1208-cyber/Leetcode-Solutions/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Tushar-1208-cyber/Leetcode-Solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Quicksort
 |  |
