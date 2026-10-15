@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/Tushar-1208-cyber/Leetcode-Solutions/tree/master/1929-concatenation-of-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Tushar-1208-cyber/Leetcode-Solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Tushar-1208-cyber/Leetcode-Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Tushar-1208-cyber/Leetcode-Solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Tushar-1208-cyber/Leetcode-Solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Ternary Search
 |  |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0697-degree-of-an-array](https://github.com/Tushar-1208-cyber/Leetcode-Solutions/tree/master/0697-degree-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Tushar-1208-cyber/Leetcode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/Tushar-1208-cyber/Leetcode-Solutions/tree/master/1512-number-of-good-pairs) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Tushar-1208-cyber/Leetcode-Solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## Tree
 |  |
 | ------- |
@@ -169,4 +171,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Tushar-1208-cyber/Leetcode-Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Tushar-1208-cyber/Leetcode-Solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Segment Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Tushar-1208-cyber/Leetcode-Solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->
