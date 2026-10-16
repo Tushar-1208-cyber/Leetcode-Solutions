@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0183-customers-who-never-order](https://github.com/Tushar-1208-cyber/Leetcode-Solutions/tree/master/0183-customers-who-never-order) |
 | [0584-find-customer-referee](https://github.com/Tushar-1208-cyber/Leetcode-Solutions/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/Tushar-1208-cyber/Leetcode-Solutions/tree/master/0595-big-countries) |
+| [0596-classes-with-at-least-5-students](https://github.com/Tushar-1208-cyber/Leetcode-Solutions/tree/master/0596-classes-with-at-least-5-students) |
 | [0620-not-boring-movies](https://github.com/Tushar-1208-cyber/Leetcode-Solutions/tree/master/0620-not-boring-movies) |
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/Tushar-1208-cyber/Leetcode-Solutions/tree/master/1141-user-activity-for-the-past-30-days-i) |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Tushar-1208-cyber/Leetcode-Solutions/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
